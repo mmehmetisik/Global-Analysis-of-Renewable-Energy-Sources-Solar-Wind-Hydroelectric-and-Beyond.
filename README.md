@@ -25,4 +25,14 @@ Delve into the detailed analysis reports on Kaggle through the following links:
 - [17_Geothermal Energy's Expanding Horizon](https://www.kaggle.com/code/mehmetisik/17-geothermal-energy-s-expanding-horizon/notebook)
 
 
+![1](https://github.com/mmehmetisik/Global-Analysis-of-Renewable-Energy-Sources-Solar-Wind-Hydroelectric-and-Beyond./assets/64706956/39dd6a90-c0af-4053-8a16-0b0fbd3abefc)
 
+![2](https://github.com/mmehmetisik/Global-Analysis-of-Renewable-Energy-Sources-Solar-Wind-Hydroelectric-and-Beyond./assets/64706956/ee7f10e6-5a23-419b-8c39-689da8a2145c)
+
+![3](https://github.com/mmehmetisik/Global-Analysis-of-Renewable-Energy-Sources-Solar-Wind-Hydroelectric-and-Beyond./assets/64706956/fcde3c36-9c9e-4212-ab03-1ed775358817)
+
+![4](https://github.com/mmehmetisik/Global-Analysis-of-Renewable-Energy-Sources-Solar-Wind-Hydroelectric-and-Beyond./assets/64706956/ebbdcb9c-18ce-4261-b9f0-4ccc0255bd9d)
+
+![5](https://github.com/mmehmetisik/Global-Analysis-of-Renewable-Energy-Sources-Solar-Wind-Hydroelectric-and-Beyond./assets/64706956/bc50a553-d95b-4f41-9636-744f006a55c0)
+
+![6](https://github.com/mmehmetisik/Global-Analysis-of-Renewable-Energy-Sources-Solar-Wind-Hydroelectric-and-Beyond./assets/64706956/03f68ea5-cb95-49bf-bf18-9bd644e7c1b8)
